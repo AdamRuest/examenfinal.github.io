@@ -1,0 +1,61 @@
+.upper_elements {
+    height: 11vh;
+}
+
+.nav {
+    display: inline;
+    float: left;
+}
+
+.nav button {
+    margin: 3vh;
+    width: 16vh;
+    height: 5vh;
+    font-size: 2vh;
+}
+
+.call_options {
+    display: inline;
+    float: right;
+    margin-top: 3vh;
+    margin-right: 25vh
+}
+
+.call_options input[type=checkbox] {
+    transform: scale(2);
+    margin: 10px;
+}
+
+.call_options label {
+    font-size: 2vh;
+}
+
+iframe {
+    display: inline;
+    float: left;
+    background-color: red;
+    width: 80vh;
+    height: 80vh;
+}
+
+.participants {
+    display: inline;
+    float: right;
+    margin-right: 16vh;
+}
+
+.participants h2 {
+    font-size: 5vh;
+    margin: 1px;
+}
+
+.participants_list img {
+    width: 14vh;
+    height: 14vh;
+    border-radius: 12px;
+    border: 3px solid black;
+    box-shadow: 5px 5px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 1.5vh;
+}
